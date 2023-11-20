@@ -32,7 +32,7 @@ Below is the dashboard showing all visualization made from the bike sales data
 ![image](https://github.com/kolabdu/Bike-Sales-Analysis/assets/54320228/5fb6439b-7338-4ac2-b8bc-34315b9cbb34)
 
  
-Observations
+# Observations
 The average income of buyers is higher than that those who did not buy, people with one car make the bulk of our buyers. People without children tends to buy more than people with children.
 The middle age and adolescence make a hug percentage of our buyers
 Recommendation
